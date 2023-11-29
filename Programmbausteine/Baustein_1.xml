@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V17" />
   <DocumentInfo>
-    <Created>2023-11-29T11:46:22.8028703Z</Created>
+    <Created>2023-11-29T12:18:11.2971802Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -92,7 +92,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Rücksetztaster_EINS" />
+        <Component Name="Rücksetztaster" />
       </Symbol>
     </Access>
     <Access Scope="LocalVariable" UId="23">
