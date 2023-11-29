@@ -157,7 +157,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I20.5</LogicalAddress>
-          <Name>Rücksetztaster_eins</Name>
+          <Name>Rücksetztaster</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="11" CompositionName="Comment">
