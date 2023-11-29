@@ -92,7 +92,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Rücksetztasterww" />
+        <Component Name="Rücksetztaster" />
       </Symbol>
     </Access>
     <Access Scope="LocalVariable" UId="23">
