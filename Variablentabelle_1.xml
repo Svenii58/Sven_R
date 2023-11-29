@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V17" />
   <DocumentInfo>
-    <Created>2023-10-05T17:25:50.3279275Z</Created>
+    <Created>2023-11-29T12:25:14.5243927Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -157,7 +157,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I20.5</LogicalAddress>
-          <Name>Rücksetztaster</Name>
+          <Name>Rücksetztaster_eins</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="11" CompositionName="Comment">
